@@ -1,2 +1,3 @@
-# HW01
-Homework 1 for Data Science and Programming at USF
+# Homework template for Data Science and Programming at USF Psychology
+
+This is template repository for hosting and posting your homework assignments for Data Science and Programming.
